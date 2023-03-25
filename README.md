@@ -1,5 +1,5 @@
-# iTD-1.16-0.3.7-R2-SA-MP
-iPLEOMAXs TextDraw Editor 0.3.7 R2 SA-MP Server Version
+# iTD-1.16 || 0.3.7 R2 SA-MP
+> **iPLEOMAXs TextDraw Editor 0.3.7 R2 SA-MP Server Version**
 
 # Español
 Al descargar el servidor, debes mover la carpeta models a la carpeta Raiz de tu GTA San Andreas, Luego tienes  ejecutar samp-server.exe una vez ejecutado ve al apartado de añadir servidor en el Cliente de SA-MP y escribe localhost, Luego cuando este dentro del servidor, use el comando **/itd** y podra comenzar a editar y crear sus TextDraws
